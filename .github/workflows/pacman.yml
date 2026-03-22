@@ -1,0 +1,6 @@
+            - name: pacman-profile-github
+  # You may pin to the exact commit or the version.
+  # uses: DuyetBKU/viz-pacman-github-profile@bc175fdbed8c4e1c189149ce637fcf9385d88d5d
+  uses: DuyetBKU/viz-pacman-github-profile@pacman
+  with:
+    github_user_name: luizhmg28      
