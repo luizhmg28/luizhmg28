@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">🧾 Sobre mim<br>💻 Desenvolvedor focado em projetos práticos<br>🔬 Interesse em próteses, sensores e interfaces homem-máquina<br>⚙️ Gosto de integrar hardware + software<br>🚀 Sempre construindo algo novo</h3>
+<h3 align="left">🧾 Sobre mim<br>💻 Desenvolvedor focado em projetos práticos<br>🔬 Interesse em robótica, sensores e interfaces homem-máquina<br>⚙️ Gosto de integrar hardware + software<br></h3>
 
 ###
 
